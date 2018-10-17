@@ -1,0 +1,8 @@
+node --version
+tsc -v
+tsc -help
+--esModuleInterup
+
+Si escribo:
+node
+ya puedo ejecutar codigo javascript directamente para salir de este modo, debo darle dos veces control C
